@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhi
+- 👋 Hi, I’m Abhiram
 - 👀 I’m interested in Machine learning and AI 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on beginner machine learning projects
